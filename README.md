@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! <!--👋--> It's Jakub Pawlina.
+
+I'm a young programmer from Poland. I love algorithmics and competitive programming. I take part in individual and team contests. Besides, I am keen on web development - full stack. I always gain new skills and develop my knowledge 📖
+
+I'm also a man of many hobbies, who don't have time to be at loose end.
 
 <!--
 **jakubpawlina/jakubpawlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakubpawlina&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide=stars,contribs)
