@@ -11,6 +11,7 @@ I'm also a man of many hobbies, who don't have time to be at a loose end. ⌛
 [![Website](https://img.shields.io/badge/-jakubpawlina.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://jakubpawlina.com)
 [![Twitter](https://img.shields.io/badge/-jakub__pawlina-black?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jakub_pawlina)
 [![Instagram](https://img.shields.io/badge/-jrpawlina-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jrpawlina/)
+[![LinkedIn](https://img.shields.io/badge/-jakub--pawlina-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-pawlina/)
 
 <hr />
 
