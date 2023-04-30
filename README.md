@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=jakubpawlina&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
 ### Hi there! It's Jakub Pawlina. 👋
 
 I'm a young programmer from Poland. I love algorithmics and competitive programming, thus I take part in individual and team contests. Besides, I'm keen on web development - full stack. I always gain new skills and broaden my knowledge 📖
