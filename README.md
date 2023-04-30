@@ -1,8 +1,7 @@
 ![](https://visitcount.itsvg.in/api?id=jakubpawlina&label=Profile%20Views&color=12&icon=5&pretty=true)
----
 
 <h1 align="center">Hi, I'm Jakub Pawlina 👋</h1>
-<h3 align="center">A passionate computer science student from Poland.</h3>
+<h3 align="center">a passionate computer science student from Poland</h3>
 
 <br />
 
