@@ -23,32 +23,44 @@
 
 <h3 align="left">Some of the tools, technologies and stuff I use:</h3>
 
-![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
+![Apache2](https://img.shields.io/badge/-Apache2-black?style=flat-square&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-black?style=flat-square&logo=cmake&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-black?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Apache2](https://img.shields.io/badge/-Apache2-black?style=flat-square&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square&logo=codeforces&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-black?style=flat-square&logo=letsencrypt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=white)
+![DataGrip](https://img.shields.io/badge/-DataGrip-black?style=flat-square&logo=datagrip&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat-square&logo=overleaf&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-black?style=flat-square&logo=inkscape&logoColor=white)
-
 
 <br />
 
